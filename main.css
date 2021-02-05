@@ -1,0 +1,32 @@
+.center {
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 350px;
+    margin: 100px auto auto auto;
+    border-radius: 5px;
+
+}
+
+.input li {
+    margin: 15px 0 15px 0;
+    list-style-type: none;
+    font-family: 'Lexend Mega', sans-serif;
+}
+
+.altFont {
+    font-family: 'Lexend Mega', sans-serif;
+}
+
+.block{
+    display: block;
+    width: 90%;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-top: 30px;
+    
+    
+}
